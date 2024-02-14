@@ -6,4 +6,5 @@ let age:number = 20; //here the tpe annotton is only for the typescript not for 
 if(age < 50 )
 {
     age +=10;
+    console.log(age); 
 } 
