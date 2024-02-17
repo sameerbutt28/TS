@@ -4,7 +4,7 @@ let age:number = 20; //here the tpe annotton is only for the typescript not for 
 //helps more in debugging
 //with the help of typescript we can cach alot of our mistakes at compile time  
 if(age < 50 )
-{   
+{            
     age +=10;
     console.log(age); 
 } 
